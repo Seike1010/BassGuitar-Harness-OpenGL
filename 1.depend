@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1766452641 source:c:\users\administrator\desktop\graphics\1p\1\main.c
+	<GL/glut.h>
+	<math.h>
+	<stdlib.h>
+
+1773554136 source:c:\users\administrator\desktop\code\graphics\1p\1\main.c
+	<GL/glut.h>
+	<math.h>
+	<stdlib.h>
+
